@@ -1,0 +1,3 @@
+#!C:\Users\Cloud\Documents\GitHub\ml-stock-python\backtesting\Scripts\python.exe
+from numba.pycc import main
+main()
